@@ -42,7 +42,7 @@ car_manager.py: Genera coches aleatorios y maneja su velocidad.
 
 scoreboard.py: Muestra el nivel actual y el mensaje de fin de juego.
 
-📸 Captura de pantalla
+📸 Captura de pantalla </br>
 <img width="606" height="634" alt="Screenshot TurtleGame" src="https://github.com/user-attachments/assets/9b0548ce-b43c-455a-9f5d-9e59acd3cd59" />
 
 📜 Licencia
