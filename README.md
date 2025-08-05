@@ -1,7 +1,7 @@
-🐢 Turtle Crossing Game
+🐢 Turtle Crossing Game </br>
 Un juego simple donde controlas una tortuga que debe cruzar una calle llena de coches en movimiento. Cada vez que llegas al otro lado, aumentas de nivel y los coches se mueven más rápido.
 
-🎮 Cómo jugar
+🎮 Cómo jugar </br>
 Presiona la tecla W para mover la tortuga hacia arriba.
 Evita chocar con los coches (cuadros de colores).
 Llega al otro lado para subir de nivel.
@@ -11,8 +11,8 @@ Python 3.x instalado.
 
 Módulo turtle (viene incluido con Python).
 
-📁 Estructura del proyecto
-text
+📁 Estructura del proyecto </br>
+
 TurtleCrossing/
 ├── main.py          # Lógica principal del juego
 ├── player.py        # Control de la tortuga jugador
@@ -25,9 +25,9 @@ Clona el repositorio o descarga los archivos.
 
 Abre una terminal en la carpeta del proyecto.
 
-Ejecuta:
+Ejecuta: </br>
 
-bash
+Terminal </br>
 python main.py
 🎯 Características
 ✅ Movimiento fluido de la tortuga.
@@ -43,9 +43,10 @@ car_manager.py: Genera coches aleatorios y maneja su velocidad.
 scoreboard.py: Muestra el nivel actual y el mensaje de fin de juego.
 
 📸 Captura de pantalla </br>
+</br>
 <img width="606" height="634" alt="Screenshot TurtleGame" src="https://github.com/user-attachments/assets/9b0548ce-b43c-455a-9f5d-9e59acd3cd59" />
 
-📜 Licencia
+📜 Licencia </br>
 Este proyecto es de código abierto bajo la licencia MIT.
 
 ¡Diviértete jugando! 🎮🚦
